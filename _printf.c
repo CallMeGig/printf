@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdlib>
 /**
  * printIdentifiers - prints special characters
  * @next: character after the %
